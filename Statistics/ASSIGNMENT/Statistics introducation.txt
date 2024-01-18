@@ -1,0 +1,70 @@
+1. What is Statistics Used for?
+
+
+   Statistics is used in all kinds of science and business applications.
+
+   Statistics gives us more accurate knowledge which helps us make better decisions.
+
+   Statistics can focus on making predictions about what will happen in the future. It can also focus on explaining how different things are connected.
+
+
+Typical Steps of Statistical Methods
+The typical steps are:
+
+
+Gathering data
+Describing and visualizing data
+Making conclusions
+It is important to keep all three steps in mind for any questions we want more knowledge about.
+
+Knowing which types of data are available can tell you what kinds of questions you can answer with statistical methods.
+
+Knowing which questions you want to answer can help guide what sort of data you need. A lot of data might be available, and knowing what to focus on is important.
+
+How is Statistics Used?
+Statistics can be used to explain things in a precise way. You can use it to understand and make conclusions about the group that you want to know more about. This group is called the population.
+
+A population could be many different kinds of groups. It could be:
+
+All of the people in a country
+All the businesses in an industry
+All the customers of a business
+
+Gathering data about the population will give you a sample. 
+
+
+
+Important Concepts in Statistics
+Predictions and Explanations
+Populations and Samples
+Parameters and Sample Statistics
+Sampling Methods
+Data Types
+Measurement Level
+Descriptive Statistics
+Random Variables
+Univariate and Multivariate Statistics
+Probability Calculation
+Probability Distributions
+Statistical Inference
+Parameter Estimation
+Hypothesis Testing
+Correlation
+Regression Analysis
+Causal Inference
+We will cover these topics step by step in this tutorial.
+
+Statistics and Programming
+Statistical analysis is typically done with computers. Small amounts of data can be analyzed well, without computers.
+
+
+
+
+2. INTRODUcation
+
+Statistics is a mathematical body of science that pertains to the collection, analysis, interpretation or explanation, and presentation of data,[9] or as a branch of mathematics.Some consider statistics to be a distinct mathematical science rather than a branch of mathematics. While many scientific investigations make use of data, statistics is generally concerned with the use of data in the context of uncertainty and decision-making in the face of uncertainty.
+
+In applying statistics to a problem, it is common practice to start with a population or process to be studied. Populations can be diverse topics, such as "all people living in a country" or "every atom composing a crystal". Ideally, statisticians compile data about the entire population (an operation called a census). This may be organized by governmental statistical institutes. Descriptive statistics can be used to summarize the population data. Numerical descriptors include mean and standard deviation for continuous data (like income), while frequency and percentage are more useful in terms of describing categorical data (like education).
+
+When a census is not feasible, a chosen subset of the population called a sample is studied. Once a sample that is representative of the population is determined, data is collected for the sample members in an observational or experimental setting. Again, descriptive statistics can be used to summarize the sample data. However, drawing the sample contains an element of randomness; hence, the numerical descriptors from the sample are also prone to uncertainty. To draw meaningful conclusions about the entire population, inferential statistics are needed. It uses patterns in the sample data to draw inferences about the population represented while accounting for randomness. These inferences may take the form of answering yes/no questions about the data (hypothesis testing), estimating numerical characteristics of the data (estimation), describing associations within the data (correlation), and modeling relationships within the data (for example, using regression analysis). Inference can extend to the forecasting, prediction, and estimation of unobserved values either in or associated with the population being studied. It can include extrapolation and interpolation of time series or spatial data, as well as data mining.
+
